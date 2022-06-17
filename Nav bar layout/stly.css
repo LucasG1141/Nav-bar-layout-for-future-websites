@@ -1,0 +1,32 @@
+.box{
+    border: 4px lightgray solid;
+    height: 100px;
+    width: 100px;
+    
+}
+
+.box-small{
+
+    border: 4px lightgray solid;
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+
+
+}
+
+
+.container{
+
+    border: 4px lightgray solid;
+    display: flex;
+    justify-content: space-between;
+    padding: 24px;
+}
+
+.wrap{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+
+}
